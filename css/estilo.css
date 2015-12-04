@@ -1,0 +1,21 @@
+/** {
+	margin:0;
+	padding:0;
+}
+con este selecto cambia todo en general
+*/
+h1 {
+	color:blue;
+}
+p{
+	color:red;
+
+}
+p  h2{
+	color:green;	
+}
+body {
+	background:gray;
+}
+
+/*vamos a dale caña al css*/
